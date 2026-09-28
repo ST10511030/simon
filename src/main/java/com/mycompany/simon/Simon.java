@@ -24,5 +24,6 @@ public class Simon {
         System.out.println("Your name is: " + name);
         
         //1
+        //2
     }
 }
